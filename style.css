@@ -1,0 +1,25 @@
+#hoja{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+
+.cuadrado{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+
+.circulo{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 50%;
+}
+
+.rectangulo{
+    width: 150px;
+    height: 100px;
+    background-color: brown;
+}
